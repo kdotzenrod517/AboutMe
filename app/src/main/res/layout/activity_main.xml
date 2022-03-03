@@ -26,6 +26,8 @@
         style="@style/NameStyle"
         android:hint="@string/what_is_your_nickname"
         android:inputType="textPersonName"
+        android:background="@color/colorAccent"
+        android:paddingBottom="@dimen/small_padding"
         android:autofillHints="" />
 
     <Button
